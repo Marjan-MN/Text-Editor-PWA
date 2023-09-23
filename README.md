@@ -18,6 +18,6 @@ SO THAT I can reliably retrieve them for later use.
 
 ## Links
 
-[Heroku Deployed Link]().
+[Heroku Deployed Link](https://immense-crag-70629-eac867861ee1.herokuapp.com/).
 
 [GitHub Link](https://github.com/Marjan-MN/Text-Editor-PWA).
